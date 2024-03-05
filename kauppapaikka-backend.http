@@ -1,0 +1,6 @@
+@kauppapaikka_backend_HostAddress = http://localhost:5027
+
+GET {{kauppapaikka_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
